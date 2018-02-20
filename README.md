@@ -1,3 +1,5 @@
+[Demo](https://gfycat.com/RadiantAnotherBergerpicard)
+
 A sample application using Redux, Mobx, Webpack, and the extremely well
 documented Google APIs. To run this repository you will need to install
 yarn and webpack:
@@ -26,3 +28,5 @@ node index.js
 ```
 
 Navigate to [http://localhost:8000](http://localhost:8000) and have fun
+
+![Demo](https://thumbs.gfycat.com/RadiantAnotherBergerpicard-size_restricted.gif)
